@@ -5,4 +5,5 @@ Aline Meira Rocha
 **Idade:** 34
 **Altura:** 1,64m
 **Super poder: ** ainda não sei
+**Estado civil: ** solteira
 
